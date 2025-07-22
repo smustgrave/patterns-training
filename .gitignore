@@ -1,0 +1,25 @@
+.idea
+web/sites/default/files
+vendor
+
+sites/default/settings.php
+
+web/core
+web/modules/contrib
+web/profiles
+web/themes/contrib
+
+# Ignore scaffolded files.
+web/.csslintrc
+web/.eslintignore
+web/.eslintrc.json
+web/.ht.router.php
+web/.htaccess
+web/autoload.php
+web/example.gitignore
+web/index.php
+web/INSTALL.txt
+web/README.md
+web/robots.txt
+web/update.php
+web/web.config
