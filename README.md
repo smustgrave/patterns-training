@@ -16,6 +16,17 @@
 
 ## Task 1
 
+The starterkit theme comes with a card component
+
+I've added fields to the Basic page content type
+
+1. Override the paragraph twig template to call the card component
+2. Pass image bottom to the slot
+3. Set heading level to 3
+4. Surprise me!
+
+## Task 2
+
 ![Text teaser](docs/images/text-teaser.png)
 
 I want you to create this has a component

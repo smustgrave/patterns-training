@@ -1,0 +1,22 @@
+uuid: 439cf404-05d0-4ff2-b055-28c45fe91f04
+langcode: en
+status: true
+dependencies:
+  theme:
+    - ui_suite_daisyui_starterkit
+_core:
+  default_config_hash: 18OBkWGhwvmWm6XlYH9J_-PQPzaT7wXHzI0Ejk6kqx4
+id: ui_suite_daisyui_starterkit_primary_local_tasks
+theme: ui_suite_daisyui_starterkit
+region: content
+weight: -2
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Primary tabs'
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: false
+visibility: {  }

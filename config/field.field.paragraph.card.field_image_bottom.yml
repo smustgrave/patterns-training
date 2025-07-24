@@ -1,0 +1,21 @@
+uuid: 02f08ab6-f7a6-4a01-b807-eaca3892ce4a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_image_bottom
+    - paragraphs.paragraphs_type.card
+id: paragraph.card.field_image_bottom
+field_name: field_image_bottom
+entity_type: paragraph
+bundle: card
+label: 'Image bottom'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean
